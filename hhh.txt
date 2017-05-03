@@ -31,11 +31,12 @@ public class scrowTest : MonoBehaviour {
 		btn4.onClick.AddListener (OnBtn4Click);
 		OnBtn1Click ();
 		img.transform.SetAsLastSibling ();
+		//test code to chek someThing1
 	}
 	
 	// Update is called once per frame
 	void Update () {
-	
+		//test code to chek someThing2
 	}
 
 	void OnBtn1Click(){
