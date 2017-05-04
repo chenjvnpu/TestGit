@@ -34,7 +34,7 @@ public class scrowTest : MonoBehaviour {
 		//test code to chek someThing1
 	}
 	
-	// Update is called once per frame
+	// Update is called once per frame 11111111
 	void Update () {
 		//test code to chek someThing2
 	}
