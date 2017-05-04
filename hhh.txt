@@ -1,5 +1,5 @@
 jdlkadlsald
-adfa是大多数qreqwewd呃呃氢气eqwerwq球sdsa78wqeq	ewq787xczcxzc
+adfa是大多数qreqwewd呃呃氢气eqwerwqwrerew球sdsa78wqeq	ewq787xczcxzc
 
 using UnityEngine;
 using UnityEngine.UI;
@@ -21,7 +21,7 @@ public class scrowTest : MonoBehaviour {
 	private int listCount=0;
 	private List<GameObject> itemList = new List<GameObject> ();
 	public Image img;
-	// Use this for initialization 111
+	// Use this for initialization 111qqq
 	void Start () {
 		iType = ItemType.One;
 //		initScrollItem ();
