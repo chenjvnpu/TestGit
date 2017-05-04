@@ -55,6 +55,7 @@ public class scrowTest : MonoBehaviour {
 		iType = ItemType.Three;
 		listCount = 25;
 		ResetScrollList ();
+//I don’t know what will happen
 	}
 
 	void OnBtn4Click(){
