@@ -21,7 +21,7 @@ public class scrowTest : MonoBehaviour {
 	private int listCount=0;
 	private List<GameObject> itemList = new List<GameObject> ();
 	public Image img;
-	// Use this for initialization
+	// Use this for initialization 111
 	void Start () {
 		iType = ItemType.One;
 //		initScrollItem ();
