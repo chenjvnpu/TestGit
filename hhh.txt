@@ -1,5 +1,5 @@
 jdlkadlsald
-adfa是大多数qreqwewd氢气eqwerwq球sdsa78wqeq	ewq787xczcxzc
+adfa是大多数qreqwewd氢气eqwerwq球sdsa阿尔维78wqeq	ewq787xczcxzc
 
 using UnityEngine;
 using UnityEngine.UI;
@@ -55,7 +55,7 @@ public class scrowTest : MonoBehaviour {
 		iType = ItemType.Three;
 		listCount = 25;
 		ResetScrollList ();
-//I don’t know what will happen
+//I don’t know what will happen 
 	}
 
 	void OnBtn4Click(){
@@ -66,7 +66,7 @@ public class scrowTest : MonoBehaviour {
 
 	void ResetScrollList(){
 		int offsetCount = listCount - itemList.Count;
-		if (offsetCount <= 0) {
+		if (offsetCount <= 0) { 222
 //			string data;
 			for (int i = 0; i < itemList.Count; i++) {
 				GameObject itemObj = itemList [i];
