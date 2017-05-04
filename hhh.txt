@@ -41,7 +41,7 @@ public class scrowTest : MonoBehaviour {
 
 	void OnBtn1Click(){
 		iType = ItemType.One;
-		listCount = 18;
+		listCount = 17;
 		ResetScrollList ();
 	}
 
